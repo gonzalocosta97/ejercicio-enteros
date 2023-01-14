@@ -1,0 +1,8 @@
+Desarrollar un programa que solicite el ingreso de un número entero y lo muestre en pantalla de la manera que se visualiza a continuación.
+
+Ejemplo con 5000:
+
+5
+50
+500
+5000
